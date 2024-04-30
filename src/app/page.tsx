@@ -57,7 +57,7 @@ export default function Home() {
         <main className="py-8 flex flex-col items-center">
             <div className="w-3/4">
                 <h1 className="mb-5 font-bold text-3xl">Sirens.</h1>
-                <p className="mb-5">Does it feel too good to be true? A beacon of light after a year-long storm? In the sea of job postings and waves of e-mails don't take the bait, check that e-mail.</p>
+                <p className="mb-5">Does it feel too good to be true? A beacon of light after a year-long storm? In the sea of job postings and waves of e-mails, don't take the bait. Check that e-mail.</p>
                 <div className="relative z-0 w-full mb-5 group">
                     <input autoComplete="off" onChange={handleEmailChange} type="email" name="floating_email" id="floating_email" className="block py-3 px-0 w-full text-sm text-gray-900 bg-transparent border-0 border-b-2 border-gray-300 appearance-none dark:text-white dark:border-gray-600 dark:focus:border-cyan-500 focus:outline-none focus:ring-0 focus:border-cyan-600 peer" placeholder=" " required />
                     <label htmlFor="floating_email" className="peer-focus:font-medium absolute text-gray-500 dark:text-gray-500 duration-300 transform -translate-y-6 scale-75 top-3 -z-10 origin-[0] peer-focus:start-0 rtl:peer-focus:translate-x-1/4 rtl:peer-focus:left-auto peer-focus:text-blue-600 peer-focus:dark:text-cyan-500 peer-placeholder-shown:scale-100 peer-placeholder-shown:translate-y-0 peer-focus:scale-75 peer-focus:-translate-y-6">Email address</label>

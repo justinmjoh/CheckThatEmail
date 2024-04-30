@@ -39,7 +39,7 @@ export default function About() {
                     Finally, the proof I needed. The domain was registered a mere four days prior to 
                     my offer, yet the company has existed for several years. Their main domain (which did 
                     not have "careers" in the name) was set up several years ago. My rose tinted lenses
-                    finally shattered, and the red flags revealed themself to me. Angry and frustrated, I 
+                    finally shattered, and the red flags revealed themselves to me. Angry and frustrated, I 
                     went to bed. I checked my e-mail and the company's real site, only to see a message
                     not there before: "@[company name]careers.com is not a domain we use, be wary."
                 </p>
