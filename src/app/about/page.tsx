@@ -2,7 +2,7 @@ export default function About() {
     return (
         <main className="py-8 flex flex-col items-center">
             <div className="w-3/4">
-                <h1 className="mb-5 font-bold text-3xl">How We Got Here.</h1>
+                <h1 className="mb-5 font-bold text-3xl">You're probably wondering how we got here.</h1>
                 <p className="mb-2">
                     It was a bright sunny morning in the spring of my senior year. 
                     As a soon-to-be computer science graduate, I was eager to 
@@ -40,8 +40,8 @@ export default function About() {
                     my offer, yet the company has existed for several years. Their main domain (which did 
                     not have "careers" in the name) was set up several years ago. My rose tinted lenses
                     finally shattered, and the red flags revealed themselves to me. Angry and frustrated, I 
-                    went to bed. I checked my e-mail and the company's real site, only to see a message
-                    not there before: "@[company name]careers.com is not a domain we use, be wary."
+                    went to bed. In the morning, I checked the company's real site only to see a message
+                    not there the night prior: "@[company name]careers.com is not a domain we use..."
                 </p>
                 <p>
                     That brings us to now. I wanted to make a quick, clean site to help those in the 
